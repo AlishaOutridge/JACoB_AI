@@ -1,0 +1,15 @@
+{
+  "language": "JavaScript",
+  "installCommand": "npm install",
+  "formatCommand": "npx prettier",
+  "buildCommand": "npm build",
+  "style": "CSS",
+  "iconSet": "Font Awesome",
+  "directories": {
+    "components": "/components",
+    "pages": "/app",
+    "styles": "/styles",
+    "staticAssets": "/public/assets"
+  },
+  "env": ""
+}
